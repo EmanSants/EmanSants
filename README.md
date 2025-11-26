@@ -1,10 +1,12 @@
-## Hello! Welcome to my Github profile.
-My name is Emanuel
+# Olá! Eu sou o Emanuel
 
-<div style="display: inline_block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" />
-</div>
+🚀 Entusiasta de Tecnologia  
+📘 Atualmente aprendendo **Java** e **Python**  
+🧠 Interessado em **IA** e **Cibersegurança**
+
+## 📌 Sobre mim
+Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas.  
+No momento, estou focado em evoluir minhas habilidades em programação e entender mais sobre IA e segurança da informação.
 
 <br>
 
